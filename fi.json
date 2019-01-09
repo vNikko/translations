@@ -82,7 +82,7 @@
             "languagePicker" : {
                 "liipaisin" : "kieli",
                 "otsikko" : "valitse kieli",
-                "nykyinen kieli" : "Käytät tällä hetkellä [suomea]."
+                "nykyinen kieli" : "Käytät tällä hetkellä [language]."
             }
         },
         "home" : {
